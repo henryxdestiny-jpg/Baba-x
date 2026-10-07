@@ -1,0 +1,6 @@
+{
+  "name": "HX HHD Studio",
+  "description": "Henry X Destiny Studio — Universal HHD Edition. High-definition 24-bit/96kHz audio mastering, AI stem vocal/beat separator, Beat Store, and recording booth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
